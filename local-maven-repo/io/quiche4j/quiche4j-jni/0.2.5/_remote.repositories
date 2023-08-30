@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 28 17:02:54 MSK 2023
+quiche4j-jni-0.2.5-linux-x86_64.jar>=
+quiche4j-jni-0.2.5.jar>=
+quiche4j-jni-0.2.5.pom>=
